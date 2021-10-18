@@ -82,6 +82,12 @@
   padding: 30px
 }
 
+@media screen and (max-width: 419px){
+  #why{
+    background-color: #f2f2cd;;
+  }
+}
+
 /* COMMON */
 .row::after {
   content: '';
