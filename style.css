@@ -55,6 +55,13 @@
     width: 992px;
     background-color: #f9f9f9;
   }
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+  float: none;
+  width: 33%;
+  margin: 10px auto ;
+}
 }
 
 /* BLOCCO PERCHE */
