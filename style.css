@@ -50,6 +50,13 @@
   text-align: center;
 }
 
+@media screen and (max-width: 419px){
+  #steps .container.grey{
+    width: 992px;
+    background-color: #f9f9f9;
+  }
+}
+
 /* BLOCCO PERCHE */
 #why {
   text-align: center;
