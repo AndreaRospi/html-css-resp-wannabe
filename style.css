@@ -84,7 +84,7 @@
 
 @media screen and (max-width: 419px){
   #why{
-    background-color: #f2f2cd;;
+    background-color: #f2f2cd;
   }
 }
 
@@ -94,6 +94,12 @@
   display: table;
   clear: both;
 }
+
+*{ 
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ }
 
 .container.grey {
   background-color: #f9f9f9;
